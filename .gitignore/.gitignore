@@ -1,0 +1,4 @@
+replays/*
+__pycache__
+*.pyc
+models/*
